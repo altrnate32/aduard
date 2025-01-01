@@ -1,2 +1,3 @@
 cookie-cdn.cookiepro.com
 googleadservices.com
+prodregistryv2.org
